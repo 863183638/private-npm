@@ -12,11 +12,11 @@ sinopia以文件系统为基础，提供了简单的`npm publish`和`npm login`�
  ![1.png](./img/1.png)
 
 * 提供快捷的版本回退和模块删除操作。  
-![2.png](./img/2.png =800x100)
-![3.png](./img/3.png =300x150) ![4.png](./img/4.png =300x150)
+![2.png](./img/2.png)
+![3.png](./img/3.png) ![4.png](./img/4.png)
  
 * 搭配gitlab的CI持续集成，实现模块自动发布和更新到私有库中。 
-![5.png](./img/5.png =300x300)
+![5.png](./img/5.png)
 
 * 提供数据恢复功能。应对私有库服务器出现数据丢失问题，或者方便重新部署时同步数据。
 
